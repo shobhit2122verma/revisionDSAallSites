@@ -51,8 +51,6 @@ public class groupthepeopletheybelongto {
 			a[i]=in.nextInt();
 		}
 		ArrayList<ArrayList<Integer>> ans=groupThePeople(a);
-		for(int i=0;i<ans.size();i++) {
-			ArrayList
-		}
+		
 	}
 }
